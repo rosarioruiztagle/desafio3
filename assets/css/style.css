@@ -1,0 +1,76 @@
+html {
+  background-color: black;
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+}
+.imagen1 {
+  width: 1800px;
+  height: 1000px;
+}
+.seccion1 {
+  display: flex;
+}
+.informacion {
+  color: white;
+  text-align: left;
+  margin-top: 76px;
+  margin-bottom: 75px;
+  margin-left: 350px;
+  margin-right: 100px;
+}
+.imagen2 {
+  width: 599px;
+  height: 337px;
+  margin-right: 300px;
+  margin-left: 0px;
+}
+.seccion2 {
+  background-color: #1e1a13;
+}
+
+h2 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: x-large;
+  padding-top: 50px;
+}
+
+.caracteristicas p {
+  color: white;
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.caracteristicas {
+  display: flex;
+  justify-content: center;
+}
+.caracteristicas div {
+  margin: 110px;
+  text-align: center;
+}
+.imagen3 {
+  width: 316px;
+  height: 202px;
+  margin-right: 30px;
+}
+.galeria {
+  display: flex;
+  margin-top: 50px;
+  margin-left: 420px;
+  margin-bottom: 50px;
+}
+footer {
+  background-color: #1e1a13;
+  height: 102px;
+}
+footer h4 {
+  color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 50px;
+}

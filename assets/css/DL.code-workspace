@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../CLASE 1/DESAFIO 1"
+		},
+		{
+			"path": "../../../../CLASE 2/DESAFIO 2"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../totesaut_Clases"
+		},
+		{
+			"path": "../../../Solucion_CatPage"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DL"
+	}
+}
