@@ -25,8 +25,9 @@ h1 {
 .imagen2 {
   width: 599px;
   height: 337px;
-  margin-right: 300px;
-  margin-left: 0px;
+margin-top: 70px;
+margin-right: 300px;
+ 
 }
 .seccion2 {
   background-color: #1e1a13;
@@ -60,6 +61,7 @@ h2 {
 }
 .galeria {
   display: flex;
+  text-align: center;
   margin-top: 50px;
   margin-left: 420px;
   margin-bottom: 50px;
